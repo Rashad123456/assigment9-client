@@ -49,7 +49,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* 2. Featured Facilities Section (Dynamic) */}
+    
       <section className="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">Featured Facilities</h2>
@@ -95,7 +95,7 @@ const Home = () => {
         </div>
       </section>
 
-      {/* 3. Extra Section 1: How It Works */}
+     
       <section className="bg-white dark:bg-gray-950 py-16 border-y border-gray-200 dark:border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-center text-gray-900 dark:text-white mb-12">How It Works</h2>
